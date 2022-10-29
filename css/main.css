@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    color: rgb(232, 235, 46);
+    color: rgb(46, 235, 147);
     font-size: 40px;
 }
 
@@ -17,5 +17,32 @@ img {
 }
 
 p {
+    background-color: white;
+    color: black;
+    padding: 50px 20px;
+    border-radius: 30px;
+}
+
+.red-text{
     color: red;
+}
+
+.bold-text{
+    font-weight: bolder;
+}
+
+.description{
+    font-size: 26px;
+    text-align:center;
+}
+
+.title{
+    font-size: 60px;
+    text-decoration: underline;
+    color: red;
+    text-align: center;
+}
+
+.blog .title{
+    color: aqua;
 }
