@@ -46,3 +46,19 @@ p {
 .blog .title{
     color: aqua;
 }
+
+.blog .red-text.subtitle{
+    color: green;
+}
+
+.blog img{
+    border-color: purple;
+}
+
+#page-title{
+    color: purple;
+}
+
+.subtitle{
+    text-align: center;
+}
